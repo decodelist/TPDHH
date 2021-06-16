@@ -1,0 +1,17 @@
+
+body {
+    margin: 50px;
+    padding: 50px 100px;
+    border: 10px solid black;
+    background-color: rgb(191, 194, 55);
+}
+img {
+    width: 40%;
+}
+
+
+/*class*/
+
+.textoCentrado{
+    text-align: center;
+}
